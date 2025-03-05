@@ -1,19 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Astitva Singh! 👋  
 
-<!--
-**astitva-exe-23/astitva-exe-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+### 🚀 About Me  
+I'm a Software Developer with a strong interest in backend development, system design, and problem-solving. I enjoy building scalable and high-performance applications while continuously improving my knowledge of Data Structures & Algorithms (DSA). My experience spans across Node.js, Spring Boot, and the MERN stack, along with various tools and technologies to develop efficient solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
--->
+### 💻 Experience
+Currently an AI Engineering Intern at Nexagen
+
+### 🌱 Currently Learning  
+- Advanced system design & scalability  
+- Cloud computing (AWS, GCP)  
+- Distributed systems & microservices architecture  
+
+### 🔥 Projects  
+- **Full-Stack Chat App** 🗨️ (MERN + WebSocket + JWT Authentication)  
+- **Interactive Dashboard** 📊 (Next.js + Django API + Recharts)  
+- **CPU Scheduling Algorithms** ⚙️ (C++ implementation of SRTF & Priority Scheduling)  
+
+
+### 📫 Connect with Me  
+- LinkedIn: [Astitva Singh](https://www.linkedin.com/in/astitva-singh-0a5011202/)  
+- GitHub: [astitva-exe-23](https://github.com/astitva-exe-23)  
+
+⚡ **Fun Fact**: I'm always looking to push my limits and learn something new every day! 🚀  
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
